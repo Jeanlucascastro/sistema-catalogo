@@ -1,3 +1,6 @@
+Instruções
+
+criar um arquivo .env e colocar na raiaz do projeto com o conteudo abaixo
 
 JWT_SECRET_KEY="chave-secreta"
 
